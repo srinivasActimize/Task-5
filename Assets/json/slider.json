@@ -1,22 +1,2 @@
-[{"name":"computer","filter":"active","img":"../Assets/images/active/1.jpg","price":"10000","Discount":30, "Rating":2},
-{"name":"laptop","filter":"active","img":"../Assets/images/active/2.jpg","price":"1200","Discount":20, "Rating":2 },
-{"name":"laptop","filter":"active","img":"../Assets/images/active/3.jpg","price":"1300","Discount":10 ,"Rating":3 },
-{"name":"laptop","filter":"active","img":"../Assets/images/active/4.jpeg","price":"2400","Discount":40 ,"Rating":4 },
-{"name":"laptop","filter":"active","img":"../Assets/images/active/5.jpg","price":"2400","Discount":40 ,"Rating":4 },
-{"name":"laptop","filter":"active","img":"../Assets/images/active/1.jpg","price":"10000","Discount":30, "Rating":4},
-{"name":"laptop","filter":"active","img":"../Assets/images/active/2.jpg","price":"1200","Discount":20, "Rating":5 },
-{"name":"laptop","filter":"active","img":"../Assets/images/active/3.jpg","price":"1300","Discount":10 ,"Rating":3 },
-{"name":"Bellam","filter":"active","img":"../Assets/images/active/4.jpeg","price":"2400","Discount":40 ,"Rating":4 },    
-{"name":"Bellam","filter":"active","img":"../Assets/images/active/5.jpg","price":"5400","Discount":40, "Rating":5 },
-{"name":"Bellam","filter":"missed","img":"../Assets/images/missed/1.jpg","price":"2500","Discount":50 ,"Rating":2 },
-{"name":"Bellam","filter":"missed","img":"../Assets/images/missed/2.jpg","price":"66000","Discount":60 ,"Rating":3 },
-{"name":"Bellam","filter":"missed","img":"../Assets/images/missed/3.jpg","price":"2700","Discount":70 ,"Rating":4 },
-{"name":"Gajjikay","filter":"missed","img":"../Assets/images/missed/4.jpg","price":"6800","Discount":60 ,"Rating":5 },
-{"name":"Gajjikay","filter":"missed","img":"../Assets/images/missed/5.jpg","price":"7800","Discount":40 ,"Rating":3 },
-{"name":"Gajjikay","filter":"upcoming","img":"../Assets/images/upcoming/1.jpg","price":"2000","Discount":40 ,"Rating":4 },
-{"name":"Gajjikay","filter":"upcoming","img":"../Assets/images/upcoming/2.jpg","price":"100000","Discount":15 ,"Rating":5 },
-{"name":"Gajjikay","filter":"upcoming","img":"../Assets/images/upcoming/3.jpg","price":"1100","Discount":25 ,"Rating":2 },
-{"name":"Gajjikay","filter":"upcoming","img":"../Assets/images/upcoming/4.jpg","price":"1200","Discount":35 ,"Rating":3 },
-{"name":"Gajjikay","filter":"upcoming","img":"../Assets/images/upcoming/5.jpg","price":"22000","Discount":35 ,"Rating":4 }
-]  
+detailss='[{"name":"computer","filter":"active","img":"./Assets/images/active/1.jpg","price":"10000","Discount":30, "Rating":2},{"name":"laptop","filter":"active","img":"./Assets/images/active/2.jpg","price":"1200","Discount":20, "Rating":2 },{"name":"laptop","filter":"active","img":"./Assets/images/active/3.jpg","price":"1300","Discount":10 ,"Rating":3 },{"name":"laptop","filter":"active","img":"./Assets/images/active/4.jpeg","price":"2400","Discount":40 ,"Rating":4 },{"name":"laptop","filter":"active","img":"./Assets/images/active/5.jpg","price":"2400","Discount":40 ,"Rating":4 },{"name":"laptop","filter":"active","img":"./Assets/images/active/1.jpg","price":"10000","Discount":30, "Rating":4},{"name":"laptop","filter":"active","img":"./Assets/images/active/2.jpg","price":"1200","Discount":20, "Rating":5 },{"name":"laptop","filter":"active","img":"./Assets/images/active/3.jpg","price":"1300","Discount":10 ,"Rating":3 },{"name":"Bellam","filter":"active","img":"./Assets/images/active/4.jpeg","price":"2400","Discount":40 ,"Rating":4 },    {"name":"Bellam","filter":"active","img":"./Assets/images/active/5.jpg","price":"5400","Discount":40, "Rating":5 },{"name":"Bellam","filter":"missed","img":"./Assets/images/missed/1.jpg","price":"2500","Discount":50 ,"Rating":2 },{"name":"Bellam","filter":"missed","img":"./Assets/images/missed/2.jpg","price":"66000","Discount":60 ,"Rating":3 },{"name":"Bellam","filter":"missed","img":"./Assets/images/missed/3.jpg","price":"2700","Discount":70 ,"Rating":4 },{"name":"Gajjikay","filter":"missed","img":"./Assets/images/missed/4.jpg","price":"6800","Discount":60 ,"Rating":5 },{"name":"Gajjikay","filter":"missed","img":"./Assets/images/missed/5.jpg","price":"7800","Discount":40 ,"Rating":3 },{"name":"Gajjikay","filter":"upcoming","img":"./Assets/images/upcoming/1.jpg","price":"2000","Discount":40 ,"Rating":4 },{"name":"Gajjikay","filter":"upcoming","img":"./Assets/images/upcoming/2.jpg","price":"100000","Discount":15 ,"Rating":5 },{"name":"Gajjikay","filter":"upcoming","img":"./Assets/images/upcoming/3.jpg","price":"1100","Discount":25 ,"Rating":2 },{"name":"Gajjikay","filter":"upcoming","img":"./Assets/images/upcoming/4.jpg","price":"1200","Discount":35 ,"Rating":3 },{"name":"Gajjikay","filter":"upcoming","img":"./Assets/images/upcoming/5.jpg","price":"22000","Discount":35 ,"Rating":4 }]';  
 

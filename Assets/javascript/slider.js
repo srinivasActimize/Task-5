@@ -3,9 +3,9 @@ myfunc("active");
 
 async function myfunc(msg) {
     try{
-    let response= await fetch("Assets/json/slider.json");     //fetch method will get data from source
-    let prods= await response.json();                         //the data will extracted in json format using json() method
-
+    // let response= await fetch("Assets/json/slider.json");     //fetch method will get data from source
+    // let prods= await response.json();                         //the data will extracted in json format using json() method
+      let prods=JSON.parse(detailss);
     let box=document.getElementById("containerr11");
     box.innerHTML="";
     let obj= prods.filter(pro=>pro.filter===msg);             // desired content will be filtered from the prods(whole data)
